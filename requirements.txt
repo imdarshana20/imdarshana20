@@ -1,7 +1,7 @@
 Django==2.1.2
 django-countries==5.3.3
 django-crispy-forms==1.7.2
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 freeze==1.0.10
 numpy==1.16.1
 pandas==0.24.1
